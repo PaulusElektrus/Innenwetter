@@ -18,6 +18,7 @@ This is a simple weather station project for the Raspberry Pi Pico. It displays 
 - Connect the SSD1306 OLED display using the SoftI2C interface on GPIO 4 (SDA) & 5 (SCL).
 
 ![PinOut](Pico.png)
+
 Source & Copyright: [Dan Halbert](https://learn.adafruit.com/assets/99339)
 
 ## Software Setup
